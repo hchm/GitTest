@@ -2,4 +2,8 @@ abcde
 bbb
 from f1
 from  f2 修改
+<<<<<<< HEAD
 本地修改，然后出现冲突
+=======
+ceshile
+>>>>>>> ce4f5faf34cf0b2e61431f567d29cb2e94949dd3
